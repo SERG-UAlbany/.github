@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## List of projects
+
+- Showcase (Student Portal) https://github.com/SERG-UAlbany/studentPortal
 <!--
 
 **Here are some ideas to get you started:**
